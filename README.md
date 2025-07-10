@@ -1,6 +1,5 @@
 # CS50 AI Main Projects
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Project Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 
 
